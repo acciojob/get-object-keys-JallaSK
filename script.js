@@ -1,12 +1,6 @@
-// Create the student object
-const student = {
-  name: "John",
-  age: 24,
-  city: "Hyderabad",
+Object.prototype.getKeys = function () {
+    return Object.keys(this);
 };
 
-// Function to get all keys from the object
-function getKeys(obj) {
-  return Object.keys(obj);
-}
+
 
