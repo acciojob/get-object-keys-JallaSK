@@ -1,9 +1,7 @@
-Object.prototype.getKeys = function () {
-    return Object.keys(this);
-};
-
 const student = {
-    name: "John",
+    name: "John"
 };
 
-console.log(student.getKeys());
+function getKeys(obj) {
+    return Object.keys(obj);
+}
