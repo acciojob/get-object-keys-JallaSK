@@ -3,17 +3,15 @@ Object.prototype.getKeys = function () {
 };
 
 const student = {
-  name: "John",
-  age: "24",
-  city: "HYD"
+  name: "John"
 };
+
+
 
 
 // function getKeys(obj) {
 //   return Object.keys(obj);
 // }
-
-
 // console.log(getKeys(student));
 
 
