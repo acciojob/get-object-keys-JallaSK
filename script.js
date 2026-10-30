@@ -3,7 +3,10 @@
 // };
 
 const student = {
-  name: "John"
+  name: "John";
+  age: "24";
+  city: "HYD";
+	
 };
 
 
