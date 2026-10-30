@@ -3,9 +3,9 @@ Object.prototype.getKeys = function () {
 };
 
 const student = {
-  name: "John";
-  age: "24";
-  city: "HYD";
+  name: "John",
+  age: "24",
+  city: "HYD"
 };
 
 
